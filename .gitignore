@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.project
+.pydevproject
+.settings/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Testing
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+# Distribution
+*.tar.gz
+*.whl
+
+# Logs
+*.log
+logs/
+log/
+
+# Cache
+.cache/
+.mypy_cache/
+
+# Local development
+local_settings.py
+db.sqlite3
+
+# Conda
+.conda/
+
+# Documentation
+docs/_build/
+docs/generated/
+
+# Temporary files
+*.bak
+*.tmp
+*~
+.*.swp
+.*.swo

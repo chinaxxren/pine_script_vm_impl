@@ -1,0 +1,24 @@
+name: pine_script_vm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9
+  - pytest>=7.0.0
+  - typing-extensions>=4.0.0
+  - pandas>=2.0.0
+  - numpy>=1.24.0
+  - matplotlib>=3.7.0
+  - seaborn>=0.12.0
+  - scipy>=1.10.0
+  - python-dateutil>=2.8.0
+  - pytz>=2023.3
+  - six>=1.16.0
+  - numba>=0.58.0
+  - scikit-learn>=1.4.0
+  - numba>=0.58.0
+  - pip
+  - pip:
+    - dataclasses>=0.6
+    - ccxt>=4.0.0
+    - mplfinance>=0.12.10b0
